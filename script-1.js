@@ -105,8 +105,8 @@ function startCount(el) {
 
 // **************************************************************************8
 
-const signUpButton = document.getElementById('signUp');
-const signInButton = document.getElementById('signIn');
+const signUpButton = document.getElementById('sign-up-container');
+const signInButton = document.getElementById('sign-up-container');
 const container = document.getElementById('container');
 
 signUpButton.addEventListener('click', () => {
